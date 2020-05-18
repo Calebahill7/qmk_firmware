@@ -1,16 +1,14 @@
-# [name]
+# [alps41]
 
-![name](image url here)
+![alps41](image url here)
 
-The [keyboard description here]
+The Alps41 is a custom, handwired keyboard made from the parts of an Apple Extended Keyboard II. The only pieces reused from that board are in fact the switches and the plate, the case is wood (plywood) with an arduino pro micro microcontroller. 
 
-Keyboard Maintainer: [chill389cc](https://github.com/chill389cc)  
-Hardware Supported: 
-Hardware Availability: 
+Keyboard Maintainer: [chill389cc](https://github.com/chill389cc)
 
 Make example for this keyboard (after setting up your build environment):
 
-    make [name]:default
+    make alps41:default
 
 For information on flashing this keyboard, visit the following links:
 
