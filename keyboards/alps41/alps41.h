@@ -1,9 +1,9 @@
-#ifndef JD45_H
-#define JD45_H
+#ifndef Alps41_H
+#define Alps41_H
 
 #include "quantum.h"
 
-/* JD45 keymap definition macro
+/* Alps41 keymap definition macro
  */
 #define LAYOUT( \
      k00, k01, k02, k03, k04, k05, k06, k07, k08, k09, k0a, k0b, \
